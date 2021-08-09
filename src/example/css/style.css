@@ -1,0 +1,18 @@
+body {
+    /* background-color: aqua; */
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Ftech%2Fservices-and-software%2Fbest-photo-editing-apps-iphone-android-phone-free-paid%2F&psig=AOvVaw1hoiiZlgQGonJSH0cfxmh2&ust=1628439332757000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOCb3LGnn_ICFQAAAAAdAAAAABAD");
+    background-size: 1920px 1080px;
+}
+
+h5 {
+    background-color: rgb(111, 111, 236);
+    color: brown;
+}
+
+.big {
+    color: coral;
+}
+
+#red {
+    color: crimson;
+}
